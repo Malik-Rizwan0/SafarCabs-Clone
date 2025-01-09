@@ -171,13 +171,12 @@ img {
 
 .mobile-nav {
     display: none;
-    /* Add other styling as needed */
     width:90% ;
+    padding: 20px 5px;
 }
 
 .mobile-nav.active {
     display: block;
-    /* Add other styling as needed */
 }
 .section-title span {
     line-height: 0;
