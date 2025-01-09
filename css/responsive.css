@@ -58,6 +58,13 @@ h3 {
     display: none;
     margin-bottom: 0;
 }
+.navbar {
+    padding: 0px;
+}
+.navbar-area .navbar-brand {
+    width: 90px;
+    padding: 0px 0 0;
+}
 .mobile-nav .logo img {
     max-width: 120px;
     height: 40px;
